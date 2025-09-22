@@ -40,7 +40,3 @@ Simply run the Dart script from your terminal:
 The application will generate and print a secure, 16-character password for you.
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for new features or improvements, p
