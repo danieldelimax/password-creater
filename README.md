@@ -35,6 +35,7 @@ Simply run the Dart script from your terminal:
     ```
     dart run
     ```
+---
 
 The application will generate and print a secure, 16-character password for you.
 
