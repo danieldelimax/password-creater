@@ -20,7 +20,7 @@ To run this project, you need to have the Dart SDK installed on your machine. If
 
 1.  Clone this repository to your local machine:
     ```
-    git clone [https://github.com/danieldelimax/password-creater.git](https://github.com/danieldelimax/password-creater.git)
+    git clone https://github.com/danieldelimax/password-creater.git
     ```
 2.  Navigate into the project directory:
     ```
@@ -35,8 +35,5 @@ Simply run the Dart script from your terminal:
     ```
     dart run
     ```
----
 
 The application will generate and print a secure, 16-character password for you.
-
----
